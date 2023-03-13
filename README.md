@@ -28,5 +28,5 @@ python App.py
 ## Interface
 
 <p align="center">
-  <img width="520" src="Interface.png">
+  <img src="Interface.png">
 </p>

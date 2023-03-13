@@ -2,7 +2,7 @@
 ChatGPT Graphical User Interface (GUI) Based on Tkinter.
 
 <p align="center">
-  <img width="520" src="Logo.jpeg">
+  <img width="520" src="Logo1.png">
 </p>
 
 ## Quick Start
